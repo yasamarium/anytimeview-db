@@ -1,5 +1,26 @@
 [
   {
+    "id": "view_1791397266764_yv4fy5",
+    "title": "as",
+    "fileType": "image",
+    "fileName": "as_edited_1788692096467.jpg",
+    "fileSize": 187225,
+    "contentType": "image/jpeg",
+    "url": "https://github.com/yasamarium/anytimeview-db/releases/download/cluster-vault-v1/1791397266221_as_edited_1788692096467.jpg",
+    "cdnUrl": "/api/cdn/view_1791397266764_yv4fy5",
+    "assetId": 619445588,
+    "uploadedAt": "2026-10-07T18:21:06.764Z",
+    "clusterNodes": [
+      "Kolkata Node",
+      "Israel Gateway",
+      "US Central Core"
+    ],
+    "tags": [],
+    "ownerUsername": "yen",
+    "ownerId": "usr_1791397228739_40936449",
+    "isPublic": true
+  },
+  {
     "id": "view_1791382412804_l1taty",
     "title": "octocat",
     "fileType": "image",
