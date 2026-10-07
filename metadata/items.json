@@ -1,5 +1,22 @@
 [
   {
+    "id": "view_1791382412804_l1taty",
+    "title": "octocat",
+    "fileType": "image",
+    "fileName": "1001212782.png",
+    "fileSize": 26186,
+    "contentType": "image/png",
+    "url": "https://github.com/yasamarium/anytimeview-db/releases/download/cluster-vault-v1/1791382412012_1001212782.png",
+    "assetId": 618897089,
+    "uploadedAt": "2026-10-07T14:13:32.804Z",
+    "clusterNodes": [
+      "Kolkata Node",
+      "Israel Gateway",
+      "US Central Core"
+    ],
+    "tags": []
+  },
+  {
     "id": "view_1791380937450_qhe8t1",
     "title": "AnytimeView Cluster Specification",
     "fileType": "pdf",
