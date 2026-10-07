@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sysup_1791398116643_7edna",
+    "title": "us 7",
+    "content": "updated node",
+    "type": "announcement",
+    "createdAt": "2026-10-07T18:35:16.643Z",
+    "targetNode": "US Central Core",
+    "tags": [],
+    "author": "System Admin"
+  }
+]
