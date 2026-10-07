@@ -1,5 +1,39 @@
 [
   {
+    "id": "sysup_1791398910395_crva3",
+    "title": "green colored background green screen background green colored chroma key background screen flat style design free free photo",
+    "content": "New administrative release synchronized across Kolkata Node, Israel Gateway, US Central Core.",
+    "type": "media",
+    "createdAt": "2026-10-07T18:48:30.395Z",
+    "item": {
+      "id": "view_1791398909287_8vga1n",
+      "title": "green colored background green screen background green colored chroma key background screen flat style design free free photo",
+      "fileType": "image",
+      "fileName": "green-colored-background-green-screen-background-green-colored-chroma-key-background-screen-flat-style-design-free-free-photo.webp",
+      "fileSize": 104,
+      "contentType": "image/webp",
+      "url": "https://github.com/yasamarium/anytimeview-db/releases/download/cluster-vault-v1/1791398908576_green-colored-background-green-screen-background-green-colored-chroma-key-background-screen-flat-style-design-free-free-photo.webp",
+      "cdnUrl": "/api/cdn/view_1791398909287_8vga1n",
+      "assetId": 619509467,
+      "uploadedAt": "2026-10-07T18:48:29.287Z",
+      "clusterNodes": [
+        "Kolkata Node",
+        "Israel Gateway",
+        "US Central Core"
+      ],
+      "targetNode": "Global Geo-Replicated",
+      "tags": [],
+      "ownerUsername": "admin",
+      "ownerId": "admin",
+      "isPublic": true
+    },
+    "targetNode": "Global Geo-Replicated",
+    "tags": [
+      "admin_release"
+    ],
+    "author": "System Admin"
+  },
+  {
     "id": "sysup_1791398882432_tl7jk",
     "title": "....",
     "content": "...",
