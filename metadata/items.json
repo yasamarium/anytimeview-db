@@ -1,0 +1,25 @@
+[
+  {
+    "id": "view_1791380937450_qhe8t1",
+    "title": "AnytimeView Cluster Specification",
+    "fileType": "pdf",
+    "fileName": "sample_spec.pdf",
+    "fileSize": 58,
+    "contentType": "text/plain",
+    "url": "https://github.com/yasamarium/anytimeview-db/releases/download/cluster-vault-v1/1791380936314_sample_spec.pdf",
+    "assetId": 618832458,
+    "uploadedAt": "2026-10-07T13:48:57.450Z",
+    "clusterNodes": [
+      "Kolkata Node",
+      "Israel Gateway",
+      "US Central Core"
+    ],
+    "tags": [
+      "spec",
+      "cluster",
+      "kolkata",
+      "israel",
+      "us"
+    ]
+  }
+]
