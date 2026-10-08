@@ -1,5 +1,27 @@
 [
   {
+    "id": "view_1791424104187_u5khg0",
+    "title": "1",
+    "fileType": "image",
+    "fileName": "IMG-20261007-WA0042.jpg",
+    "fileSize": 553050,
+    "contentType": "image/jpeg",
+    "url": "https://github.com/yasamarium/anytimeview-db/releases/download/cluster-vault-v1/1791424103346_IMG-20261007-WA0042.jpg",
+    "cdnUrl": "/api/cdn/view_1791424104187_u5khg0",
+    "assetId": 620379211,
+    "uploadedAt": "2026-10-08T01:48:24.187Z",
+    "clusterNodes": [
+      "Kolkata Node",
+      "Israel Gateway",
+      "US Central Core"
+    ],
+    "targetNode": "Global Geo-Replicated",
+    "tags": [],
+    "ownerUsername": "views",
+    "ownerId": "usr_1791423993175_61f4334f",
+    "isPublic": true
+  },
+  {
     "id": "view_1791398909287_8vga1n",
     "title": "green colored background green screen background green colored chroma key background screen flat style design free free photo",
     "fileType": "image",
