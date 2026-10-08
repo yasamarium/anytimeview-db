@@ -1,5 +1,27 @@
 [
   {
+    "id": "view_1791424133696_wcyicl",
+    "title": "2",
+    "fileType": "image",
+    "fileName": "IMG-20261007-WA0039.jpg",
+    "fileSize": 548690,
+    "contentType": "image/jpeg",
+    "url": "https://github.com/yasamarium/anytimeview-db/releases/download/cluster-vault-v1/1791424133096_IMG-20261007-WA0039.jpg",
+    "cdnUrl": "/api/cdn/view_1791424133696_wcyicl",
+    "assetId": 620380118,
+    "uploadedAt": "2026-10-08T01:48:53.696Z",
+    "clusterNodes": [
+      "Kolkata Node",
+      "Israel Gateway",
+      "US Central Core"
+    ],
+    "targetNode": "Global Geo-Replicated",
+    "tags": [],
+    "ownerUsername": "views",
+    "ownerId": "usr_1791423993175_61f4334f",
+    "isPublic": true
+  },
+  {
     "id": "view_1791424104187_u5khg0",
     "title": "1",
     "fileType": "image",
